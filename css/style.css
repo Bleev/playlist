@@ -23,9 +23,9 @@ h1 {
 
 #songs p {
     font-size: 18px;
-    height: 100px;
+    height: 68px;
     font-weight: bold;
-    margin: 20px;
+    margin: 2px;
 }
 
 #artists p {
@@ -63,4 +63,19 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
+}
+.imgcol {
+    height: 100px;
+}
+.songcol {
+    height: 100px;
+}
+.artistcol {
+    height: 100px;
+}
+.lengthcol {
+    height: 100px;
+}
+.linkcol {
+    height: 127px;
 }
